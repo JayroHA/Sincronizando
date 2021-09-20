@@ -5,4 +5,4 @@
     <li><a href="#">Nosotros</a></li>
     <li><a href="#">Contactos</a></li>
   </ol>
-<navr>
+<nav>
